@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "728163989448",
+    "firebase_url": "https://cesal-app.firebaseio.com",
+    "project_id": "cesal-app",
+    "storage_bucket": "cesal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728163989448:android:673e8b7f776e2d63b632fd",
+        "android_client_info": {
+          "package_name": "com.example.cesal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728163989448-nhcua2tjigv7h9rnsnp1p545aadbmqnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACDYyXsNRyEFL6141kRyTuT_OXfQbYreg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728163989448-nhcua2tjigv7h9rnsnp1p545aadbmqnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
