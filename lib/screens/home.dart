@@ -7,7 +7,6 @@ import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
 import 'active_promotions2.dart';
-import 'file:///D:/CESAL/App_Oct2020/cesal_app/lib/screens/active_promotions.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
